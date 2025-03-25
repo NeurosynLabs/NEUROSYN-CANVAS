@@ -2,6 +2,8 @@
 
 Neurosyn Canvas is an **advanced AI-powered image-generation bot** that transforms text prompts into **breathtaking, hyper-realistic visuals**. Whether you want a **cinematic scene, a surreal dreamscape, or an ultra-detailed portrait**, Neurosyn Canvas is designed to create **photorealistic images** with **intricate textures, dynamic lighting, and immersive depth**.  
 
+<img src="https://raw.githubusercontent.com/NeurosynLabs/NEUROSYN-CANVAS/f51176d30ba63f38e1be3e569f01f96225b8b304/A%20hyperrealistic%20closeup%20portrait%20of%20a%20young%20woman%20with%20striking%20heterochromia%E2%80%94one%20eye%20a%20vivid%20blue%20and%20the%20other%20a%20deep%20brown%20with%20goldenyellow%20speckles%20(1).png" alt="Hyperrealistic Portrait" width="300" height="300">
+
 ## 🌟 Features  
 - **Hyper-Realistic Rendering** – Generates images with **lifelike details, depth, and textures**.  
 - **Advanced Lighting & Shadows** – Accurately simulates **real-world light behavior** for natural results.  
